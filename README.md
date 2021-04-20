@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Habibe.
 * *I work web development.*
 *  I'm a Computer Engineering student at [Kırıkkale University](https://kku.edu.tr/Anasayfa)*
-* Contact me [Outlook](beggihabibe@outlook.com) and [Linkedin](https://tr.linkedin.com/in/habibe-beggi-9930771a3)
+* Contact me [Outlook](beggihabibe@outlook.com) and [Linkedin](https://www.linkedin.com/in/habibe-beggi-9930771a3/?originalSubdomain=tr)
 
 
 Skills: **C#, HTML, CSS, JS, Python**
