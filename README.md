@@ -7,7 +7,7 @@ CENG Student
 I've been learning to code for 3 years. I staretd with C#. Then, I learned Python. And basic HTML, CSS and JS. Now, I work on backend with ASP.NET MVC.
 
 * 🌍  I'm based in Turkey
-* ✉️  You can contact me at [habibebeggi@outlook.com](mailto:habibebeggi@outlook.com)
+* ✉️  You can contact me at [beggihabibe@outlook.com](mailto:habibebeggi@outlook.com)
 * 🧠  I'm learning Flutter and mobile app development.
 * 🤝  I'm open to collaborating on backend web development
 
