@@ -8,7 +8,6 @@ I've been learning to code for 3 years. I staretd with C#. Then, I learned Pytho
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [beggihabibe@outlook.com](mailto:habibebeggi@outlook.com)
-* 🧠  I'm learning Flutter and mobile app development.
 * 🤝  I'm open to collaborating on backend web development
 
 <a href="https://www.github.com/habibebeggi" target="_blank" rel="noreferrer"><img
