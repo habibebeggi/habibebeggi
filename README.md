@@ -1,8 +1,4 @@
-Hi 👋 My name is Habibe Beggi
-=============================
-
-CENG Student
-------------
+Hi, I' am Habibe Beggi
 
 I've dealing coding for 4 years. I staretd with C#. Then, I learned Python. And basic HTML, CSS and JS. Now, I work on backend with ASP.NET MVC.
 
