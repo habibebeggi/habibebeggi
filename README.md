@@ -1,10 +1,4 @@
-Hi, I' am Habibe Beggi
-
-I've dealing coding for 4 years. I staretd with C#. Then, I learned Python. And basic HTML, CSS and JS. Now, I work on backend with ASP.NET MVC.
-
-* 🌍  I'm based in Turkey
-* ✉️  You can contact me at [beggihabibe@outlook.com](mailto:habibebeggi@outlook.com)
-* 🤝  I'm open to collaborating on backend web development
+Hi, I am Habibe Beggi
 
 <a href="https://www.github.com/habibebeggi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/habibebeggi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
