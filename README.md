@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Habibe Beggi</h1>
 <h3 align="center">I'm a computer engineer in Türkiye.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=habibebeggi" alt="habibebeggi" /></a> </p>
 
 - 🌱 I’m currently learning **Next.js, React, Typescript, MVC and other web development technologies**
 
